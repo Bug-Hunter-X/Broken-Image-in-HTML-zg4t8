@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon HTML bug related to broken images. The bug occurs when an image is referenced with an incorrect file path or if the referenced image file is missing from the project directory.  The solution involves correcting the image path or providing a valid image file.
